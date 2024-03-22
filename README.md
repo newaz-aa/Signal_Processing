@@ -9,4 +9,6 @@ This lab covers the following topics -
 3. Filter operation - Median filter, Hampel filter
 4. Measuring signal similarities
 
+For a video demonstration, check the YouTube video - https://youtu.be/37S29Pa6kMg
+
 For introductory digital image processing, follow this repository - https://github.com/newaz-aa/Digital-Image-Processing 
