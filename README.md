@@ -24,3 +24,14 @@ For a video demonstration and discussion of the codes, check the YouTube video -
 
 ## Additional Content
 For an introduction to digital image processing, follow this repository: https://github.com/newaz-aa/Digital-Image-Processing
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/newaz-aa/Signal_Processing_Lab/blob/main/Figures/sunspt_vs_year_6.png)
+
+
+![App Screenshot](https://github.com/newaz-aa/Signal_Processing_Lab/blob/main/Figures/hampel.png)
+
+
+![App Screenshot](https://github.com/newaz-aa/Signal_Processing_Lab/blob/main/Figures/median_filter_2.png)
