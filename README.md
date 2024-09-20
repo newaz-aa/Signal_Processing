@@ -1,5 +1,5 @@
 
-# Signal and Systems Lab
+# Signal Processing with MATLAB
 
 
 
