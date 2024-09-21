@@ -7,7 +7,7 @@
 
 
 
-The code files and manuals on signal processing lab can be found in this repository.
+The code files and manuals on signal processing lab can be found in this repository. For details - https://www.asifnewaz.com/teaching/signal-processing-with-matlab
 
 ## Topics
 
